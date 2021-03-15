@@ -1,8 +1,8 @@
-# JogoDaVelha
-Jogo da velha em Javascript trabalhando algoritimos de Inteligencia Artificial. Página Desenvolvida para testes.
+# Conta_Palavras
+Pequeno codigo que conta as palavras em uma frase digitada pelo usuário.
 
 
-JavaScript/ CSS /  bootstrap / jquery
+Python
 ## Sobre este repositório
 
 Jogo da velha utilizando HTML, CSS e JS. Utilizando Algortimos de inteligencia artificial (MINIMAX) para determinar as escolhas do adversario.
