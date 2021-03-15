@@ -1,4 +1,6 @@
-#!/usr/bin/env python3
+# Author:  Igor Vinicius Freitas de Souza
+# GitHub: https://github.com/igor1043
+# E-mail: igorviniciusfreitasouza@gmail.com#!/usr/bin/env python3
 import os
 from sys import argv
 import re
